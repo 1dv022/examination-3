@@ -29,7 +29,7 @@ The following three applications should at least be included in the desktop appl
 * The application shall be visually appealing.
 * The code shall be organized in appropriate modules.
 
-## The memory game application
+## The Memory game application
 
 See [exercise/memory/README.md](https://github.com/1dv022/exercise/blob/memory/exercise/memory/README.md) for a description of this application.
 
