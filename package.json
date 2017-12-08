@@ -1,6 +1,6 @@
 {
   "name": "@1dv022/examination-3",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://coursepress.lnu.se/kurs/klientbaserad-webbprogrammering/",
   "contributors": [
     {
@@ -23,7 +23,7 @@
   "license": "CC-BY-4.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/1dv022/examination-2"
+    "url": "https://github.com/1dv022/examination-3"
   },
   "engines": {
     "node": ">=7.0.0"
