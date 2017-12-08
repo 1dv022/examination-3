@@ -20,14 +20,14 @@ Please check that your application meets the requirements below before submittin
 
 The following three applications should at least be included in the desktop application:
 
-* A memory-game
-* A chat connected to a central chat channel using websockets
-* One, by you, designed and decided application
+* A memory-game.
+* A chat connected to a central chat channel using websockets.
+* One, by you, designed and decided application.
 
 ### Non functional requirements PWD
 
-* The application shall be visually appealing
-* The code shall be organized in appropriate modules
+* The application shall be visually appealing.
+* The code shall be organized in appropriate modules.
 
 ## The memory game application
 
@@ -37,7 +37,7 @@ See [exercise/memory/README.md](https://github.com/1dv022/exercise/blob/memory/e
 
 * The user should be able to open and play multiple memory games simultaneously.
 * The user should be able to play the game using only the keyboard.
-* One, by you decided, extended feature
+* One, by you decided, extended feature.
 
 ## The chat application
 
@@ -47,7 +47,7 @@ The chat application shall be connected to other students chats via a web socket
 
 The server address is: `ws://vhost3.lnu.se:20080/socket/`
 
-You connect to the server via web sockets and send messages using the json format:
+You connect to the server via web sockets and send messages using the JSON format:
 
 ```json
 {
